@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532156929306.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B099585",
+    "lastKnownWriteTime" : 31244212048494674,
+    "last_content_update" : 1532156929306,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3D39221E",
+        "caption" : "empd",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=empd&cache_key=3D39221E",
+        "displayedObservations" : 106,
+        "environment" : "",
+        "object" : "empd",
+        "preview" : 0,
+        "totalObservations" : 106,
+        "variables" : 16
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
